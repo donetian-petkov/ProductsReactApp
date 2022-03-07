@@ -1,0 +1,20 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css');
+
+.footer {
+    background: rgb(47	108	214	);
+    display: flex;
+    padding: 2.8%;
+    justify-content: stretch;
+}
+
+.footer a {
+    font-weight: bold;
+    color:white;
+    text-decoration: none;
+    margin: 0 10px 0 0;
+}
+
+.footer a:visited {
+    color: white;
+}
+
