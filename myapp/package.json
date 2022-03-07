@@ -24,7 +24,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build https://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@github.com/donetian-petkov/donetian-petkov.github.io.git"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
